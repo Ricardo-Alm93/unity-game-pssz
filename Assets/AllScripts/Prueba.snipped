@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>CalculateBonus_Health</Title>
+			<Shortcut>bonusHealth</Shortcut>
+			<Description>Calcula el bonus de salud con _vit</Description>
+			<Author>Tu Nombre</Author>
+		</Header>
+		<Snippet>
+			<Declarations>
+				<!-- Puedes declarar variables o literales aquí -->
+			</Declarations>
+			<Code Language="csharp">
+				<![CDATA[
+        statB_C.CalculateBonus_Health(_vit);
+        ]]>
+			</Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>
